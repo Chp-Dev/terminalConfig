@@ -23,7 +23,7 @@ cp -r TerminalConfig/config/ ~/.config/
 
 # exa
 
-![Preview1](./screenshots/xample.png
+![Preview1](./screenshots/xample.png)
 
 Install exa
 ```bash
@@ -36,7 +36,7 @@ https://tldr.inbrowser.app/pages/common/exa
 
 # ![bpytop](https://github.com/aristocratos/bpytop/raw/master/Imgs/logo.png)
 
-![Preview1](./screenshots/xample2.png
+![Preview2](./screenshots/xample2.png)
 
 Install Bpytop
 ```bash
