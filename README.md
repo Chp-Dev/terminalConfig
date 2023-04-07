@@ -1,4 +1,4 @@
-# Welcome to my personal kitty terminal
+# Welcome to my personal terminal
 
 
 Installation/Configuration (POP ubuntu)
